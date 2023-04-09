@@ -12,4 +12,12 @@ public class Project5 {
 	}
 
 
+	
+ public static void Hello() {
+	 
+	 
+	 System.out.println("Hello World");
+	 
+ }
+	
 }
